@@ -27,6 +27,7 @@ height: 55vw !important;
 .headerLeft{
 width:47vw !important;
 	padding-left:0px !important;
+	margin-left:2% !important;
 }
 
 .myName{
@@ -79,6 +80,7 @@ width: 8vw !important;
 }
 .kerim{
 width:34vw !important;
+	padding-right:0px !important;
 }
 
 #about{
